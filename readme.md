@@ -5,24 +5,20 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [CAD softwares](#CAD)
+- [Integrated Development Environment](#Integrated Development Environment)
+
+##CAD
+
+1.  [**Draftsight**](https://www.3ds.com/fr/produits-et-services/draftsight-cad-software/free-download/) **:** is a Dassault Systemes (SolidWorks) completely unapologetic knockoff of AutoCad.
+2.  [**PythonCAD**](https://sourceforge.net/projects/pythoncad/) **:** it's an open source CAD project, written in Python, is aimed at providing a program that can be used with great success on Linux and Unix.
+
+## **Integrated Development Environment*
+
+1. [**NetBeans**](https://netbeans.org/downloads/) **:** A free, open-source Integrated Development Environment for software developers. You get all the tools you need to create professional desktop, enterprise, web, and mobile applications with the Java language, C/C++, and even dynamic languages such as PHP, JavaScript, Groovy, and Ruby. NetBeans IDE is easy to install and use straight out of the box and runs on many platforms including Windows, Linux, Mac OS X and Solaris.
+2. [**Brackets**](http://brackets.io/) **:** Brackets is an open-source editor for web design and development built on top of web technologies such as HTML, CSS and JavaScript. The project was created and is maintained by Adobe, and is released under an MIT License.
 
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 
 ## Contribute
